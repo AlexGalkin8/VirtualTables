@@ -1,0 +1,8 @@
+Debug/
+Release/
+x64/
+.vs/
+IdentityDocument.sln
+IdentityDocument.vcxproj
+IdentityDocument.vcxproj.filters
+IdentityDocument.vcxproj.user
